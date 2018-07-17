@@ -1,0 +1,20 @@
+cd - change directory
+mkdir - make directory
+ls - list files
+touch - create file
+mv - move file
+rm - remove file
+history — last used commands
+man — manual for specific command 
+rmdir — remove directory ('-r' for recursive)
+ping — check website status
+Ctrl + C — stop running program
+ifconfig — computer IP information
+cat — list ot file contents
+
+git — version control
+git init — initialize git repository
+git status — check git status
+git add — add changes
+git commit -m "<message>" — commits changes to reposity with comment
+git log — log git history/commands

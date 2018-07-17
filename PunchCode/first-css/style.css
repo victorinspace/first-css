@@ -1,0 +1,28 @@
+.navigation {
+	list-style: none;
+	display: flex;
+	background: #ccc;
+	padding: 20px;
+	justify-content: flex-evenly;
+	top: 0px;
+	left: 10px;
+}
+
+.navigation li {
+	flex-basis: 100px;
+	position: relative;
+
+}
+
+.navigation ul {
+	list-style: none;
+	padding: 10px;
+	background: rgb(121, 121, 121);
+	display: block;
+	position: fixed;
+}
+
+.navigation li:hover ul {
+	display: block;
+}
+
